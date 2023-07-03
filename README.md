@@ -15,7 +15,6 @@
 
 - 🔭 Atualmente estou me aprimorando para a área de back-end
 - 📚 Estudando Java, PL/SQL e SpringBoot
-- 📫 Contate-me no email: perobellianaeliza@gmail.com
 
 <div style="display: inline_block"><br>
   
@@ -37,6 +36,6 @@
   
 </div>
           
-![Snake animation](https://github.com/anaeliza12/anaeliza12/blob/output/github-contribution-grid-snake.svg)
+
 
 
