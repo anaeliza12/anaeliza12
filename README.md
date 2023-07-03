@@ -1,16 +1,42 @@
-### Hi there 👋
+### Olá! Eu sou a Ana Eliza ✨
 
-<!--
-**anaeliza12/anaeliza12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<div>
+ <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=anaeliza12&show_icons=true&theme=radical"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaeliza12&layout=compact&langs_count=7&theme=radical"/>
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div>
+
+<br>
+
+- 🔭 Atualmente estou me aprimorando para a área de back-end
+- 📚 Estudando Java, PL/SQL e SpringBoot
+- 📫 Contate-me no email: perobellianaeliza@gmail.com
+
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="Ana-java" height="90" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Ana-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Ana-visual" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ 
+</div>
+
+  ##
+ 
+<div> 
+
+  <a href="https://www.instagram.com/anaelizzz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:perobellianaeliza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ana-eliza-perobelli-772460220" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+          
+![Snake animation](https://github.com/anaeliza12/anaeliza12/blob/output/github-contribution-grid-snake.svg)
+
+
