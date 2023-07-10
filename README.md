@@ -17,7 +17,7 @@
 - 🔭 Atualmente estou me aprimorando para a área de back-end
 - 📚 Estudando Java, PL/SQL e SpringBoot
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   
   <img align="center" alt="Ana-java" height="90" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Ana-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
