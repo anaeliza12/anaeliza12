@@ -2,12 +2,15 @@
 
 <br>
 
-<div align="center">
+<div>
  <a href="https://github.com/anaeliza12">
  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=anaeliza12&show_icons=true&theme=dark"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaeliza12&layout=compact&langs_count=7&theme=dark"/>
-  
 </div>
+  <div>
+   
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaeliza12&layout=compact&langs_count=7&theme=dark"/>
+  </div>
+  
 
 
 <div>
@@ -28,9 +31,10 @@
 </div>
 
   ##
- 
+
  ![Snake animation](https://github.com/anaeliza12/anaeliza12/blob/output/github-contribution-grid-snake.svg)
-<div> 
+
+<div align="center"> 
 
   <a  href="https://www.instagram.com/anaelizzz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:perobellianaeliza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
