@@ -32,7 +32,6 @@
 
   ##
 
- ![Snake animation](https://github.com/anaeliza12/anaeliza12/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center"> 
 
@@ -43,4 +42,5 @@
 </div>
           
 
+ ![Snake animation](https://github.com/anaeliza12/anaeliza12/blob/output/github-contribution-grid-snake.svg)
 
