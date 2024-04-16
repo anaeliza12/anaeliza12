@@ -26,18 +26,13 @@
  ##
 
 
-<div>
- <a href="https://github.com/anaeliza12">
- <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=anaeliza12&show_icons=true&theme=dark"/>
-</div>
-  <div>
-   
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaeliza12&layout=compact&langs_count=7&theme=dark"/>
-  </div>
   
 
-
-<div>
+<div align = "center">
+ 
+<img height="180em"  src = "https://github-readme-stats.vercel.app/api?username=anaeliza12&show_icons=true&theme=radical" />
+<img  height="180em"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anaeliza12&layout=compact&theme=radical" />
+</div>
 
 
 
