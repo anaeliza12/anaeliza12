@@ -1,7 +1,12 @@
-<div align="center" >  <h1> Hi! I'm Ana Eliza ✨ <h1></h1>
+<div align="center" >  <h1> 💜 Hi, my name is Ana Eliza  <h1></h1>
 </div>
 
-
+- 🔭 I’m a back-end developer!
+- 💼 Working and studying C#, .NET and Angular
+- 📚 Currently improving myself in Java, database and SpringBoot
+- 🌱 Learning more about RESTful, Docker
+  
+<br>
 <h3 align="center">Back-end</h3>
 <p align="center"> 
  <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -50,8 +55,6 @@
 
 <br>
 
-- 🔭 I’m currently improving myself in the back-end area
-- 📚 Studying Java, PL/SQL and SpringBoot
 
  ##
 
