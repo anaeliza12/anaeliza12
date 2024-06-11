@@ -4,7 +4,7 @@
  
 <img height="180em"  src = "https://github-readme-stats.vercel.app/api?username=anaeliza12&show_icons=true&theme=radical" />
 <img  height="180em"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anaeliza12&layout=compact&theme=radical" />
-<img  height="180em"  src = "https://starchart.cc/anaeliza12/springCursoUdemy.svg" />
+
 
 </div>
 
@@ -51,7 +51,9 @@
 
 
  ##
-
+<div align = "center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anaeliza12&theme=tokyo-night&hide_border=true&color=8b007e&line=8b007e&point=00d668" width="100%">
+</div>
 
   
 
@@ -69,10 +71,3 @@
 </div>
 
 
-
-
-- 🔭 I’m a back-end developer!
-- 💼 Working and studying C#, .NET and Angular
-- 📚 Currently improving myself in Java, database and SpringBoot
-- 🌱 Learning more about RESTful, Docker
-  
