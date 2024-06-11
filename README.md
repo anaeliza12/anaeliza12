@@ -9,9 +9,6 @@
 </div>
 
 <br>
-<div align = "center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anaeliza12&theme=tokyo-night&hide_border=true&color=8b007e&line=8b007e&point=00d668" width="100%">
-</div>
 
 <div align="center"> 
 <h3 align="center">Development tools </h3>
@@ -48,17 +45,16 @@
 
 
 
-  ##
-
-<br>
-
 
  ##
 
   
 
+<div align = "center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anaeliza12&theme=tokyo-night&hide_border=true&color=8b007e&line=8b007e&point=00d668" width="100%">
+</div>
 
-
+ ##
 
 <div align="center"> 
 <h3 align="center">Connect with me:</h3>
