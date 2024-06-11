@@ -1,55 +1,49 @@
-<div align="center" >  <h1> 💜 Hi, my name is Ana Eliza  <h1></h1>
+<div >  <h1> Hi! I´m Ana Eliza <h1>
 </div>
-
-- 🔭 I’m a back-end developer!
-- 💼 Working and studying C#, .NET and Angular
-- 📚 Currently improving myself in Java, database and SpringBoot
-- 🌱 Learning more about RESTful, Docker
-  
-<br>
-<h3 align="center">Back-end</h3>
-<p align="center"> 
- <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
- <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
- <a  target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
- <img src ="https://github.com/anaeliza12/anaeliza12/assets/108037430/ca121f0b-9c67-4a73-8784-f8ba37f8cff1" alt="spring" width="40" height="40"/>
-
-
-</p>
-
-<h3 align="center">Front-end</h3>
-<div align="center"> 
+<div align = "center">
  
- <a  target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="oracle" width="40" height="40"/> </a>
- <a  target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="oracle" width="40" height="40"/> </a>
- <a  target="_blank" rel="noreferrer"> <img src="https://github.com/anaeliza12/anaeliza12/assets/108037430/30ca2acc-cf93-44b9-b656-0f48f610f18d" alt="oracle" width="40" height="40"/> </a>
- <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="git" width="40" height="40"/> </a>  
+<img height="180em"  src = "https://github-readme-stats.vercel.app/api?username=anaeliza12&show_icons=true&theme=radical" />
+<img  height="180em"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anaeliza12&layout=compact&theme=radical" />
+<img  height="180em"  src = "https://starchart.cc/anaeliza12/springCursoUdemy.svg" />
 
 </div>
 
-<h3 align="center">DevOps and Tools</h3>
+<br>
+
 <div align="center"> 
+<h3 align="center">Development tools </h3>
+
+ <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" /> </a> 
+ <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp" /> </a>
+ <a  target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring"/> </a>
+ <a  target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /> </a>
+ <a  target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" /> </a>
+ <a  target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/> </a>
+ <a  target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/> </a>
+ <a  target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js" /> </a>
+ <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="git" /> </a>  
 
 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  
- <a  target="_blank" rel="noreferrer"> <img src="https://github.com/anaeliza12/anaeliza12/assets/108037430/5357b312-88fa-461f-b6e7-092d7f0a38f7" alt="git" width="40" height="40"/> </a>  
- <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
- <a  target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
- <a  target="_blank" rel="noreferrer"> <img src="https://github.com/anaeliza12/anaeliza12/assets/108037430/90eb4994-f7c8-4f4b-987d-b6ef61828e4b" alt="figma" width="40" height="40"/> </a>
- <a  target="_blank" rel="noreferrer"> <img src="https://github.com/anaeliza12/anaeliza12/assets/108037430/8a325c39-0864-4ac2-827d-ede0cc1bdc7e" alt="figma" width="40" height="40"/> </a>
+
+<h3 align="center">DevOps</h3>
+
+<img src="https://img.shields.io/badge/Git-323330?style=for-the-badge&logo=Git" alt="git" />  
+ <a  target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab" alt="git" /> </a>  
+ <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-E34F26?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/> </a> 
+ <a  target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jenkins-335061?style=for-the-badge&logo=Jenkins&logoColor=white" alt="figma"/> </a>
+ <a  target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-0094f0?style=for-the-badge&logo=Docker&logoColor=white" alt="figma"/> </a>
 
 
-</div>
+
+
 <h3 align="center">Database</h3>
-<div align="center"> 
-
- <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
- <a target="_blank" rel="noreferrer"> <img src="https://github.com/anaeliza12/anaeliza12/assets/108037430/0807a352-abbb-4c0c-944b-a011f20f11fe" alt="mysql" width="40" height="40"/> </a>
- <a target="_blank" rel="noreferrer"> <img src="https://github.com/anaeliza12/anaeliza12/assets/108037430/64278b9b-051f-43bd-88c1-f3dd7bcba336" alt="mysql" width="40" height="40"/> </a>
- <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-
+ <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /> </a>
+ <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mysql"/> </a>
+ <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="oracle"/> </a>
 
 </div>
+
+
 
   ##
 
@@ -61,12 +55,6 @@
 
   
 
-<div align = "center">
- 
-<img height="180em"  src = "https://github-readme-stats.vercel.app/api?username=anaeliza12&show_icons=true&theme=radical" />
-<img  height="180em"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anaeliza12&layout=compact&theme=radical" />
-
-</div>
 
 
 
@@ -82,3 +70,9 @@
 
 
 
+
+- 🔭 I’m a back-end developer!
+- 💼 Working and studying C#, .NET and Angular
+- 📚 Currently improving myself in Java, database and SpringBoot
+- 🌱 Learning more about RESTful, Docker
+  
