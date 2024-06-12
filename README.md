@@ -14,7 +14,7 @@
 <h3 align="center">Development tools </h3>
 
  <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" /> </a> 
- <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp" /> </a>
+ <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%23-7200a9?style=for-the-badge&logo=c-sharp" alt="csharp" /> </a>
  <a  target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring"/> </a>
  <a  target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /> </a>
  <a  target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" /> </a>
