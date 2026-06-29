@@ -33,6 +33,8 @@
  <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-E34F26?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/> </a> 
  <a  target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jenkins-335061?style=for-the-badge&logo=Jenkins&logoColor=white" alt="figma"/> </a>
  <a  target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-0094f0?style=for-the-badge&logo=Docker&logoColor=white" alt="figma"/> </a>
+ <a  target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform"/> </a>
+
 
 
 
