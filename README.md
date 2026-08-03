@@ -1,4 +1,4 @@
-<div >  <h1> Hi! I´m Ana Eliza <h1>
+<div >  <h1 align="center"> Hi! I´m Ana Eliza <h1>
 </div>
 
 <div align="center"> 
