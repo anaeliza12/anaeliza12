@@ -1,15 +1,5 @@
 <div >  <h1> Hi! I´m Ana Eliza <h1>
 </div>
-<div align = "center">
- 
-<img height="180em"  src = "https://github-readme-stats.vercel.app/api?username=anaeliza12&show_icons=true&theme=radical" />
-<img  height="180em"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anaeliza12&layout=compact&theme=radical"/>
-
-
-
-</div>
-
-<br>
 
 <div align="center"> 
 <h3 align="center">Development tools </h3>
